@@ -3,7 +3,7 @@ module.exports = {
   "FOOT": "©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚",
   "PREFIX": ".",
   "AUTO_READ_STATUS": "true",
-  "MODE": "public",
+  "MODE": "PUBLIC",
   "BOT_NUMBER": "94742274855",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": "false",
